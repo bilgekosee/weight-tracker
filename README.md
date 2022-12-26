@@ -1,5 +1,5 @@
 # Kilo Takibi
-## weight-tracker
+## Weight-Tracker
 
 # Kilonuzu girerek haftalık olarak takip edebileceğiniz bir uygulama
 
